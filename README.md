@@ -95,22 +95,12 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
 - 21、[5种常见的消息传递机制以及他们之间区别](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/5种常见的消息传递机制以及他们之间区别/5种常见的消息传递机制以及他们之间区别.md)
 - 22、[写一个好的单例](https://github.com/SunshineBrother/JHBlog/blob/master/设计模式/设计模式/单例模式/单例模式.md)
 - 23、[事件响应机制](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/事件响应机制/事件响应机制.md)
-
-
-
-
-******************************************************************************************************************
-
-### iOS高级
-
-
-
-
-
-
-
-
-
+- 24、[iOS 单元测试和 UI 测试快速入门](https://github.com/xietao3/Study-Plan/blob/master/TestingTutorial/README.md)
+- 25、[配置.gitignore忽略文件](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/忽略文件/iOS%20配置.gitignore忽略文件.md)
+- 26、[git使用](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/git使用/git使用.md)
+  
+  
+  
   
   ******************************************************************************************************************
   ## 架构
@@ -122,6 +112,8 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
   ## 网络
   
   - [HTTP详解](https://github.com/SunshineBrother/JHBlog/blob/master/网络/HTTP.md)
+  - [HTTPS中的TLS](https://github.com/SunshineBrother/JHBlog/blob/master/网络/HTTPS中的TLS.md)
+  - [计算机网络](https://github.com/SunshineBrother/JHBlog/blob/master/网络/计算机网络.md)
   - [深度优化iOS网络模块](https://github.com/SunshineBrother/JHBlog/blob/master/网络/深度优化iOS网络模块.md)
   
   
@@ -200,6 +192,11 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
   - [6、UITableView 的基本用法](https://github.com/SunshineBrother/JHBlog/blob/master/RxSwift学习/15、UITableView%20的基本用法.md)
   
 
+*********************************************************
+## 代码风格
+
+- [代码可读性](https://github.com/SunshineBrother/JHBlog/blob/master/代码风格/代码可读性.md)
+- [代码规范](https://github.com/SunshineBrother/JHBlog/blob/master/代码风格/代码规范.md)
 
 
 *********************************************************
@@ -215,13 +212,17 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
  - 5、[免费API](https://www.apishop.net/#/)
 - 6、[APP Store官方网站](https://help.apple.com/app-store-connect/#/dev4df155cc4)
 - 7、[如何在mac上创建txt文档](https://github.com/SunshineBrother/JHBlog/blob/master/工具/如何在mac上创建txt文档/如何在mac上创建txt文档.md)
+- 8、[Mac清理内存](https://github.com/SunshineBrother/JHBlog/blob/master/工具/Mac系统占用空间大/Mac系统占用空间大、空间不够、查看系统文件大小分布.md)
+- 9、[一个比较详细的抓包工具](http://wproxy.org/whistle/)
+
+
 
 *********************************************************
 ## 网站
 - 1、[ 牛客网 — 面经和刷面试题](http://link.zhihu.com/?target=https%3A//www.nowcoder.com/)
 - 2、[程序员客栈:程序员自由工作平台](https://www.proginn.com)
-
-
+- 3、[标识996的插件，需要翻墙使用](https://chrome.google.com/webstore/detail/natasha/icnhghjkdcenmhomcfikdfpkmekhhlej)
+- 4、[github使用中文翻译](https://help.github.com/cn)
 
 
 *********************************************************
