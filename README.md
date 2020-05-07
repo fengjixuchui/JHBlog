@@ -59,7 +59,29 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
     - [10.9、引用计数的存储](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS底层/内存管理/9、引用计数的存储.md)
   
     
-    
+
+*********************************************************
+
+### iOS开发课程笔记
+
+- [Auto Layout是怎么进行自动布局的](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS进阶/Auto%20Layout%20是怎么进行自动布局的/Auto%20Layout%20是怎么进行自动布局的.md)
+
+
+
+### 他人文章
+- [Swift5.0的Runtime机制浅析](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS进阶/Swift5.0的Runtime机制浅析/Swift5.0的Runtime机制浅析.md)
+
+
+### 启动优化
+
+- [iOS启动时间优化](http://www.zoomfeng.com/blog/launch-time.html)
+
+- [抖音研发实践：基于二进制文件重排的解决方案 APP启动速度提升超15%](https://mp.weixin.qq.com/s/Drmmx5JtjG3UtTFksL6Q8Q)
+
+- [我是如何让微博绿洲的启动速度提升30%的](https://juejin.im/post/5ea79839f265da7bba509590)
+
+
+
 ******************************************************************************************************************
 
 
@@ -102,6 +124,11 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
 - 27、[iOS内购](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/iOS内购.md)
   
 - 28、[NSArray原理及遍历方法探究](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/NSArray原理及遍历方法探究.md)
+
+- 29、[UIButton](https://github.com/SunshineBrother/JHBlog/tree/master/iOS知识点/iOS大杂烩/UIButton)
+    - [UIButton继承树](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UIButton/UIButton继承树.md)
+    - [UIButton的imageEdgeInsets和titleEdgeInsets原理](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UIButton/UIButton的imageEdgeInsets和titleEdgeInsets原理.md)
+    - [UIButton的绘制](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UIButton/UIButton内容的绘制.md)
   
   ******************************************************************************************************************
   ## 架构
@@ -261,6 +288,9 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
 - [互联网公司面试流程&面试技巧](https://www.jianshu.com/p/7dd0280ff36f)
 
 - [技术岗位如何写简历](https://www.paincker.com/how-to-write-a-resume)
+
+- [救救自己，别再这样写简历了｜掘金技术征文](https://juejin.im/post/5ea59d91518825736512f3b8)
+
 
 *********************************************************
 ## 图片
