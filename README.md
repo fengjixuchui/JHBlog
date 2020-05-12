@@ -1,10 +1,8 @@
 # JHBlog
  
-iOS开发：我的初级到中级的晋级之路
-
  
 *********************************************************
-## iOS高级进发
+## iOS文档
 [OC源码下载地址](https://opensource.apple.com/tarballs/)
 
 [苹果开发文档](https://developer.apple.com/documentation/)
@@ -58,7 +56,81 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
     - [10.8、dealloc原理](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS底层/内存管理/8、dealoc原理.md)
     - [10.9、引用计数的存储](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS底层/内存管理/9、引用计数的存储.md)
   
-    
+  
+
+
+**********************************************************
+### 收集的一些面试题
+
+很多还没有给出答案，以后会慢慢总结的。
+
+- 1、[3张图片下载完了之后合并一张图]()
+- 2、[设计一个缓存机制（底层数据结构是什么样子的）LRU]()
+- 3、[翻转链表]()
+- 4、[tableview 重用机制 滑动性能调优方法]()
+- 5、[圆角效率问题 离屏渲染]()
+- 6、[如何比较两个浮点类型 为什么要这么做]()
+- 7、[如何比较两个浮点类型 为什么要这么做]()
+- 8、[进程和线程的区别 为什么切换线程代价小]()
+- 9、[如何实现进程间的通信]()
+- 10、[信号量 管道 共享内存 效率比较]()
+- 11、[hppts加密过程详细讲一下]()
+- 12、[抓包原理]()
+- 13、[如何验证加密过程的证书]()
+- 14、[最低公共父结点]()
+- 15、[同步异步 串行 并发 区别]()
+- 16、[设计题：根据文字长短动态设置cell]()
+- 17、[设计题：上面题目再加一个button button 文字内容长短不一]()
+- 18、[如何提高上传视频大成功率 设计方案]()
+- 19、[加载图片卡顿是为什么 有哪些优化方案]()
+- 20、[图片解码时机]()
+- 21、[cpu和gpu的区别 离屏渲染]()
+- 22、[项目亮点 野指针处理]()
+- 23、[内存管理]()
+- 24、[异步加载图片原理]()
+- 25、[平常调试怎么做的]()
+- 26、[网络请求库的封装]()
+- 27、[内存管理 解决循环引用又出什么问题]()
+- 28、[循环引用出现的常见情况]()
+- 29、[timer为什么在子线程中不工作]()
+- 29、[散列表实现原理]()
+- 30、[iOS内存管理方式]()
+- 31、[了解哪些网络协议]()
+- 32、[信号量与锁的区别]()
+- 33、[手写LRU、股票算法题]()
+- 34、[kingsiher图像库的异步加载原理]()
+- 35、[多线程面试题](https://github.com/SunshineBrother/JHBlog/blob/master/面试题/多线程面试题/多线程面试题.md)
+- 36、[如何检测项目中的卡顿问题（比如假死）]()
+- 37、[一个二叉树逐层打印的算法题]()
+- 38、[如果现在做一个新的网络层框架，有哪些需要考量的点]()
+- 39、[(算法)找出一个页面中漏出部分面积最大的试图，重合的部分按照最上层的面积算漏出，会有时间复杂度的要求。]()
+- 40、[控件的点击事件和添加在上边的手势谁先响应，并说明原因]()
+- 41、[谈对于 bitcode 的理解和作用。]()
+- 42、[介绍编译的过程和原理]()
+- 43、[介绍对于静态库和动态库的理解。]()
+- 44、[问了一些 APM 向上的问题]()
+- 45、[比较的深入的聊了内存管理的内容，包含引用计数和 weak 修饰的对象的内存管理的过程]()
+- 45、[在实际开发中遇到过哪些多线程问题以及如何进行解决的]()
+- 47、[对于内存泄漏的了解，以及介绍知道的解决方案]()
+- 48、[二叉树翻转]()
+- 49、[讲如何将一张内存极大的图片可以像地图一样的加载出来]()
+
+
+**核心动画**
+
+- 1、[iOS核心动画高级技巧-1](http://www.cocoachina.com/articles/455500)
+- 2、[iOS核心动画高级技巧-2](http://www.cocoachina.com/articles/464391)
+- 3、[iOS核心动画高级技巧-3](http://www.cocoachina.com/articles/464421)
+- 4、[iOS核心动画高级技巧-4](http://www.cocoachina.com/articles/485309)
+- 5、[iOS核心动画高级技巧-5](http://www.cocoachina.com/articles/485757)
+- 6、[iOS核心动画高级技巧-6](http://www.cocoachina.com/articles/490705)
+- 7、[iOS核心动画高级技巧-7](http://www.cocoachina.com/articles/491987)
+- 8、[iOS核心动画高级技巧-8](https://www.cnblogs.com/Julday/p/12083669.html)
+- 9、[用UIKit和UIView在视图上执行iOS动画](https://www.cnblogs.com/Julday/p/12566829.html)
+
+
+
+
 
 *********************************************************
 
@@ -88,6 +160,7 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
 ### iOS大杂烩
 
 - 1、[LLDB使用](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/LLDB/LLDB.md)
+    - [如何快速列出App的所有+load方法](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/LLDB/如何快速列出App的所有%2Bload方法/如何快速列出App的所有%2Bload方法.md)
 - 2、[基本数据类型](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/打印各种数据类型.md)
 - 3、[App信息监控](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/App需要监控信息.md)
 - 4、[Crash系列]()
@@ -127,8 +200,15 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
 
 - 29、[UIButton](https://github.com/SunshineBrother/JHBlog/tree/master/iOS知识点/iOS大杂烩/UIButton)
     - [UIButton继承树](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UIButton/UIButton继承树.md)
+    
+    - [UIButton的绘制](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UIButton/UIButton的绘制.md)
+    
     - [UIButton的imageEdgeInsets和titleEdgeInsets原理](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UIButton/UIButton的imageEdgeInsets和titleEdgeInsets原理.md)
-    - [UIButton的绘制](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UIButton/UIButton内容的绘制.md)
+- 30、[UIResponder](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/事件响应机制/事件响应机制.md)
+- 31、[UIControl](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UIControl/UIControl.md)
+- 32、[UI绘制的原理](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UI绘制的原理/UI绘制的原理.md)
+- 33、[UI卡顿、掉帧的原理是怎样的](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/UI卡顿、掉帧的原理是怎样的/UI卡顿、掉帧的原理是怎样的.md)
+- 34、[什么是离屏渲染](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS大杂烩/什么是离屏渲染/什么是离屏渲染.md)
   
   ******************************************************************************************************************
   ## 架构
