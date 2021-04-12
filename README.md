@@ -48,7 +48,7 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
     - [9.7、线程之间的通讯](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS底层/多线程/8、线程之间的通讯.md)
     - [9.8、GCD高级用法](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS底层/多线程/7、GCD高级用法.md)
     - [9.9、深入浅出 iOS 并发编程](https://www.jianshu.com/p/39d6edb54d24)
-- [10、内存管理]()  
+- [10、内存管理](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS底层/内存管理/内存管理.md)  
     - [10.1、定时器target的内存泄漏](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS底层/内存管理/1、定时器.md)
     - [10.2、Tagged Pointer](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS底层/内存管理/2、tagged%20pointer.md)
     - [10.3、copy&retain&strong原理](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS底层/内存管理/3、copy%26retain%26strong原理.md)
@@ -249,6 +249,9 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
 - 12、[App Store Connect 帮助 中文](https://help.apple.com/app-store-connect/?lang=zh-cn#/dev1b4647c5b)
 - 13、[ Mac 终端如何科学上网](https://su.ybutech.com)
 - 14、[在线json转model，支持多种语言](https://app.quicktype.io)
+- 15、[画图工具](http://asciiflow.com)
+    - [1、画图工具](https://www.processon.com/diagrams)
+    - [2、画图工具](http://asciiflow.com)
 *********************************************************
 ## 网站
 - 1、[ 牛客网 — 面经和刷面试题](http://link.zhihu.com/?target=https%3A//www.nowcoder.com/)
@@ -301,11 +304,6 @@ GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一
 ## 图片
 
 - ![iOS技术栈](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/iOS技术栈.png)
-
-- ![iOS知识体系](https://github.com/SunshineBrother/JHBlog/blob/master/iOS知识点/ios知识体系.png)
-
- 
-
 
 
 
